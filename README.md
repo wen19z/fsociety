@@ -148,24 +148,3 @@ docker-compose down # destroys instance
 
 ![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
 
-# Contributors
-
-[alexcreek](https://github.com/alexcreek)
-
-[mswell](https://github.com/mswell)
-
-[Ev3](https://github.com/Ev3)
-
-[huangsam](https://github.com/huangsam)
-
-[RyanFilho](https://github.com/RyanFilho)
-
-[gabru-md](https://github.com/gabru-md)
-
-[jdrago999](https://github.com/jdrago999)
-
-[CRO-TheHacker](https://github.com/CRO-THEHACKER)
-
-# License
-
-[MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
